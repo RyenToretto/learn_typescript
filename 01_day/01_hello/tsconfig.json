@@ -1,0 +1,16 @@
+{
+    "compileOnSave": true,
+    "files": [
+        "./01_hello.ts"
+    ],
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "noEmitOnError": true,
+        "target": "es5",
+        "sourceMap": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
